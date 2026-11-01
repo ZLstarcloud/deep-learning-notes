@@ -1,0 +1,19 @@
+# d2l-zh 教材仓库 / 数据集 —— 体积大（约 300MB），不属于本项目，不上传
+_download/
+mxnet/
+paddle/
+pytorch/
+tensorflow/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter 检查点（自动备份，无意义）
+.ipynb_checkpoints/
+
+# 编辑器 / 系统垃圾
+.vscode/
+.DS_Store
+Thumbs.db
